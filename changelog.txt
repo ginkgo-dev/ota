@@ -1,4 +1,24 @@
 ====================
+     16-03-2021
+====================
+* Synced with latest LineageOS 18.1 source code
+* Merged March 2021 security patches
+* Fixed mic in some apps (Meet, Discord,etc)
+* Updated blobs to R
+* Updated configs from MIUI R
+* Updated some blobs to LA.UM.9.11.r1-02800
+* Upstreamed kernel to 4.14.223
+* Added wireguard support
+* Increase gps batch size
+* Switched to OSS charger
+* Added support for a new Redmi note 8T version
+* Fixed safetynet with and without Magisk
+* Switched to newer QTI thermal HAL
+* Increased performance
+* Improved notch cutout
+* Added support for MiCam
+
+====================
      05-02-2021
 ====================
 * Synced with latest LineageOS 18.1 source code
