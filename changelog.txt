@@ -1,4 +1,19 @@
 ====================
+     01-04-2021
+====================
+* Synced with latest LineageOS 18.1 source code
+* Upstreamed kernel to 4.14.227
+* Merged LA.UM.9.11.r1-03600-NICOBAR.0 kernel tag
+* Fixed random reboots
+* Fixed freezes
+* Overlays cleanup
+* Updated init scripts from CAF
+* Optimized auto brightness
+* Updated blobs from MIUI 21.3.29
+* Updated vendor security patches to March 2021
+* Fixed blur toggle not appearing
+
+====================
      16-03-2021
 ====================
 * Synced with latest LineageOS 18.1 source code
