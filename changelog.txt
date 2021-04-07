@@ -1,4 +1,12 @@
 ====================
+     07-04-2021
+====================
+* Synced with latest LineageOS 18.1 source code
+* Merged April 2021 security patches
+* Performance updates
+* Kernel updates
+
+====================
      01-04-2021
 ====================
 * Synced with latest LineageOS 18.1 source code
