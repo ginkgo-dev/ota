@@ -1,4 +1,12 @@
 ====================
+     14-04-2021
+====================
+* Synced with latest LineageOS 18.1 source code
+* Updated build fingerprint to April 2021
+* Upstreamed kernel to v4.14.230
+* Fixed black summary in storage settings on dark mode
+
+====================
      07-04-2021
 ====================
 * Synced with latest LineageOS 18.1 source code
