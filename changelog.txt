@@ -1,4 +1,15 @@
 ====================
+     20-04-2021
+====================
+* Synced with latest LineageOS 18.1 source code
+* Upstreamed kernel to v4.14.231
+* Fixed kernel suspend issues
+* Updated vendor blobs from 21.4.20
+* Updated vendor security patches to April 2021
+* Added some permissions
+* Fixed display dying on higher temperatures
+
+====================
      14-04-2021
 ====================
 * Synced with latest LineageOS 18.1 source code
