@@ -1,4 +1,12 @@
 ====================
+     27-04-2021
+====================
+* Synced with latest LineageOS 18.1 source code
+* Improved apps launch and I/O
+* Shipped lineage recovery (it won't automatic replace other recoveries)
+* Imported recovery configs from 17.1
+
+====================
      20-04-2021
 ====================
 * Synced with latest LineageOS 18.1 source code
