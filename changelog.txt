@@ -1,4 +1,17 @@
 ====================
+     18-05-2021
+====================
+* Synced with latest LineageOS 18.1 source code
+* Merged LA.UM.9.11.r1-03900-NICOBAR.0 caf kernel tag
+* Updated blobs to LA.UM.9.11.r1-03200-NICOBAR.0
+* Updated gps hal to LA.UM.9.11.r1-03200-NICOBAR.0 tag
+* Cleaned up sources
+* Performance improvements
+* Fixed 5ghz wifi speed on A11 firmware
+* Fixed overheating issues
+* Updated blobs from MIUI 21.5.12
+
+====================
      04-05-2021
 ====================
 * Synced with latest LineageOS 18.1 source code
