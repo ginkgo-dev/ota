@@ -1,4 +1,15 @@
 ====================
+     24-06-2021
+====================
+* Synced with latest LineageOS 18.1 source code
+* Fixed random freezes in apps like TikTok
+* Upstreamed kernel to v4.14.237
+* Updated blobs from MIUI 21.6.21
+* Built missing ANT+ hal components
+* Cleaned up deprecated flags
+* Fixed alarm clock icon on Kai and Victor IconPacks
+
+====================
      11-06-2021
 ====================
 * Synced with latest LineageOS 18.1 source code
