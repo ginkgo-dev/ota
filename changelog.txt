@@ -1,4 +1,24 @@
 ====================
+     15-07-2021
+====================
+* Synced with latest LineageOS 18.1 source code
+* Merged July 2021 security patches
+* Upstreamed kernel to v4.14.239
+* Merged LA.UM.9.11.r1-04300-NICOBAR.QSSI12.0 kernel caf tag
+* Kernel updates
+* Updated blobs from MIUI 21.7.12
+* Updated schedtune configs
+* Switched to component-override bluetooth configs
+* Updated build fingerprint to July 2021
+* Updated most blobs to LA.UM.9.11.r1-03900-NICOBAR.0
+* Updated display to LA.UM.9.11.r1-03900-NICOBAR.0 tag
+* Fixed in-call-volume fixes
+* Removed virtual framebuffer
+* Added missing offcharge dependency
+* Add offline charger led indicator (ginkgo only)
+* Fixed fingerprint wake-up animation
+
+====================
      24-06-2021
 ====================
 * Synced with latest LineageOS 18.1 source code
